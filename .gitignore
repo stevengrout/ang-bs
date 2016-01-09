@@ -1,0 +1,12 @@
+/.project
+.idea/
+
+*.iml
+*.ipr
+*.iws
+.settings/
+target/
+mods/
+node_modules/
+logs/
+
